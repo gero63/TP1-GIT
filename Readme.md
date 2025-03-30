@@ -1,5 +1,5 @@
 #   TP GIT
 
 ## INTEGRANTES
-- [Gerónimo Bonino](geronimo_bonino.md)
-- [Gabriel Battaglino](gabriel_battaglino.md)
+- [Gerónimo Bonino](Geronimo_Bonino.md)
+- [Gabriel Battaglino](Gabriel_battaglino.md)
