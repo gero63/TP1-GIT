@@ -3,4 +3,4 @@
 ## INTEGRANTES
 -Geronimo Bonino
 -Gabriel Battaglino
-* [Archivo:](script.js)
+
