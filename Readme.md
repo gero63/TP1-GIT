@@ -2,5 +2,5 @@
 
 ## INTEGRANTES
 -Geronimo Bonino
--Gabriel Battaglino
+-[Gabriel Battaglino](Gabriel_battaglino.md)
 
